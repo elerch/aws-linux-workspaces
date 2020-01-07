@@ -15,5 +15,5 @@ docker run -v /tmp/.X11-unix:/tmp/.X11-unix \
            -e LANG \
            -u 0:0 \
            -v ${HOME}/.Amazon Web Services/Amazon WorkSpaces":"/Amazon Web Services/Amazon WorkSpaces"
-           linux-workspaces:latest
+           elerch/linux-workspaces:latest
 ```
